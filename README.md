@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![logo1](title1.jpg)
-![logo2](title2.jpg)
+<img src="title1.jpg" style="height:180px;">
+<img src="title2.jpg" style="height:180px;">
 
 </div>
